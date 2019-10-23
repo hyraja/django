@@ -1,4 +1,4 @@
-Django==2.1.11
+Django==2.2.6
 django-favicon-plus==0.0.8
 django-tinymce4-lite==1.7.5
 Pillow==6.2.0
