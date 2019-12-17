@@ -153,7 +153,6 @@ proxy_pass http://unix:/home/ubuntu/src/src.sock;
 
  
 
-
 Step12:
 Save and close the file when you are finished. Now, we can enable the file by linking it to the sites-enabled directory:
 # sudo ln -s /etc/nginx/sites-available/src /etc/nginx/sites-enabled
